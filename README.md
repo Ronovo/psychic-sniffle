@@ -1,3 +1,3 @@
 # psychic-sniffle
 
-## sup bitch
+Test Repo to teach my friend how to use Git. Disregard.
